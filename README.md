@@ -24,8 +24,7 @@ The interactive dashboard enables users to filter data based on fraud status and
 3. Use interactive filters to explore fraud insights.
 
 ## Screenshots
-
-![Screenshot 2025-03-08 210600](https://github.com/user-attachments/assets/c1ccd615-f45a-480d-883f-63a14d365f7c)
+![Screenshot 2025-03-08 212429](https://github.com/user-attachments/assets/382b6b4a-e99c-4344-9dd1-3f6650d3e6ca)
 
 ## Key Insights
 - **Fraud Peaks in April-June & November**: Fraud rates are highest in these months.
@@ -50,9 +49,4 @@ The interactive dashboard enables users to filter data based on fraud status and
 - Promote two-factor authentication for online credit card transactions.
 - Educate users on secure payment methods to prevent fraud.
 
-## Call-to-Action
-💬 How do you approach fraud detection in data analytics? Let’s discuss and share insights!  
-📌 Check out the complete project on **GitHub**: [GitHub Repository](https://github.com/your-repo-link)  
-
----
 **#FraudDetection #DataAnalytics #PowerBI #CyberSecurity #DataVisualization**
